@@ -1,7 +1,10 @@
 # Solvent hydrodynamics and membrane kinetics for coarse-grained models
 
-This repository contains various codes for calculation of anisotropic diffusion tensors and first-principle hydrodynamics, to be incorporated in solvent-free coarse-grained membrane models. The theoretical background for the presented calculations are given in [1, 2]. We have demonstrated this approach to reproduce realistic membrane kinetics in [1], using our mesoscopic membrane model [3].
+This repository contains various codes for the calculation of anisotropic diffusion tensors based on first-principle hydrodynamics. The method is intended to be incorporated in solvent-free coarse-grained membrane models. The theoretical background for the presented calculations are given in [1, 2]. We have demonstrated this approach to reproduce realistic membrane kinetics in [1], using the mesoscopic membrane model described in [3].
 
+'hydrodynamics'
+
+'diffusion_tensors'
 
 ## Publications
 
