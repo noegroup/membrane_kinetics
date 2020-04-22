@@ -595,7 +595,7 @@ class ParallelMembraneHydro:
 
     def get_histogram(self, mat, _n_bins):
 
-        # Histogram of a matrix mat based on inter-particle distances
+        # Histogram of the matrix 'mat' based on inter-particle distances
 
         hist_r = np.linspace(0.0, np.sqrt(np.sum(self.box_size ** 2)), _n_bins)
 
